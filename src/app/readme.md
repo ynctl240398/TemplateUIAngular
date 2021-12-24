@@ -21,6 +21,7 @@ example
 public GetId() : number {
     return 1;
 }
+
 public HandleId() : void {
 
 }
