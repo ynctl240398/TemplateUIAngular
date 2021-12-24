@@ -20,4 +20,7 @@ public HandleId() : void {
 
 }
 
+NOTE
+-   name of property or function is have meaning not test, list, ...
+
 avoid to use type any for property
